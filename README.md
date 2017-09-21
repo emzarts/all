@@ -1,8 +1,11 @@
 # Emily Zimmerman
 This page contains links to a few of my programming projects.
 ## Media
-[CodePen](https://codepen.io/emzarts/)
+* [CodePen](https://codepen.io/emzarts/) - contains small programming projects and exercises. 
 
-[500px](https://500px.com/emzarts)
+* [500px](https://500px.com/emzarts) - photography
 
 ## Projects
+* [Endangered Species](https://emzarts.github.io/endangered-species/index.html) 
+  * Endangered Species was a website I made for my senior year web design class. It includes parallax images and a JavaScript sliding menu.
+* 
