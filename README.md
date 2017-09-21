@@ -1,9 +1,5 @@
 # Emily Zimmerman
-This page contains links to a few of my programming projects.
-## Media
-* [CodePen](https://codepen.io/emzarts/) - contains small programming projects and exercises. 
-
-* [500px](https://500px.com/emzarts) - photography
+This page contains links to a few of my programming projects. My [CodePen](https://codepen.io/emzarts/) also contains some smaller projects and creations. 
 
 ## Projects
 * [Endangered Species](https://emzarts.github.io/endangered-species/index.html) 
@@ -18,3 +14,4 @@ This page contains links to a few of my programming projects.
   * Sustainability in Wilton was a website I designed for my AP Environmental Science class. It combines my passion for the environment and coding. 
 * [HTML and CSS iPhone](https://codepen.io/emzarts/details/MbvJoe/)
   * This is a mockup iPhone made with HTML and CSS. When the home button is pressed the phone unlocks and displays images that can be scrolled through by clicking. 
+  
