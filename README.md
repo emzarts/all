@@ -11,6 +11,8 @@ This page contains links to a few of my programming projects.
 * [3D Printing](https://emzarts.github.io/3DPrinting/products.html)
   * This is a website designed for a fictional 3D printing company. 
 * [SONO Industries](https://emzarts.github.io/SONOindustries/)
-  * This is a small JavaScript game that is currently in progress. It is based on a story written by Rachel Boal. 
+  * SONO Industries is a small JavaScript game that is currently in progress. It is based on a story written by Rachel Boal. 
+* [Clickbait](https://emzarts.github.io/PWAtest1/)
+  * This is a fun and simple project I made to learn more about JavaScript. It is also a progressive web app. 
 * [Sustainability in Wilton](https://emzarts.github.io/apes-passion-project/index.html)
   * Sustainability in Wilton was a website I designed for my AP Environmental Science class. It combines my passion for the environment and coding. 
