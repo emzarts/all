@@ -10,6 +10,7 @@ This page contains links to a few of my programming projects. My [CodePen](https
   * SONO Industries is a small JavaScript game that is currently in progress. It is based on a story written by Rachel Boal. 
 * [Clickbait](https://emzarts.github.io/PWAtest1/)
   * This is a fun and simple project I made to learn more about JavaScript. It is also a progressive web app. 
+  * Clickbait can also be installed like a chrome app [here](https://github.com/emzarts/clickbait-app).
 * [HTML and CSS iPhone](https://codepen.io/emzarts/details/MbvJoe/)
   * This is a mockup iPhone made with HTML and CSS. When the home button is pressed the phone unlocks and displays images that can be viewed by clicking the screen. 
 * [Sustainability in Wilton](https://emzarts.github.io/apes-passion-project/index.html)
