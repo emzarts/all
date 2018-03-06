@@ -13,6 +13,8 @@ This page contains links to a few of my programming projects. My [CodePen](https
   * Clickbait can also be installed like a chrome app [here](https://github.com/emzarts/clickbait-app).
 * [HTML and CSS iPhone](https://codepen.io/emzarts/details/MbvJoe/)
   * This is a mockup iPhone made with HTML and CSS. When the home button is pressed the phone unlocks and displays images that can be viewed by clicking the screen. 
+* [Java TicTacToe](https://github.com/emzarts/tictactoe)
+  * A graphical Java TicTacToe game using streams and the MVC pattern. The GUI is made using JavaFX.
 * [Sustainability in Wilton](https://emzarts.github.io/apes-passion-project/index.html)
   * Sustainability in Wilton was a website I designed for my AP Environmental Science class. It combines my passion for the environment and coding. 
 * [TechNext RPI LEDs](https://docs.google.com/presentation/d/1-vWKUJD6QAMuONkKwSzJ5jCsCUrJ-tqTz5qiFDiZDok/edit?usp=sharing)
