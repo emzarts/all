@@ -21,3 +21,5 @@ This page contains links to a few of my programming projects. My [CodePen](https
   * This is the presentation for my junior year TechNext project. It was a Raspberry Pi LED Light show that worked with the Adafruit LED Light Board. 
 * [Learn Hiragana](https://emzarts.github.io/learn-hiragana/index.html)
   * Website made for Web and Mobile I. It uses JS to play pronunciations for hiragana characters and box shadows for depth.
+* [GRISPR-Cas9](https://emzarts.github.io/Zimmerman_Emily_20/)
+  * Superbugs have become a threat to human health in recent years as bacteria evolve resistance to antibiotics and drugs. This research project for Biology I explains this issue and the use of CRISPR-Cas9 as a potenital solution. 
