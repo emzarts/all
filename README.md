@@ -1,5 +1,5 @@
 # Emily Zimmerman
-This page contains links to a few of my programming projects. My [CodePen](https://codepen.io/emzarts/) also contains some smaller projects and creations. You can also view my resume [here](https://github.com/emzarts/all/blob/master/Emily%20M.%20Zimmerman%20Resume.pdf).
+This page contains links to a few of my programming projects. My [CodePen](https://codepen.io/emzarts/) also contains some smaller projects and creations. You can also view my resume [here](https://github.com/emzarts/all/blob/master/Emily%20M.%20Zimmerman%20Resume.pdf). My linkedin can be accessed [here](https://www.linkedin.com/in/emily-zimmerman-474595149/).
 
 ## Projects
 * [Learn Hiragana](https://emzarts.github.io/learn-hiragana/index.html)
