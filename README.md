@@ -2,6 +2,10 @@
 This page contains links to a few of my programming projects. My [CodePen](https://codepen.io/emzarts/) also contains some smaller projects and creations. You can also view my resume [here](https://github.com/emzarts/all/blob/master/Emily%20M.%20Zimmerman%20Resume.pdf).
 
 ## Projects
+* [Learn Hiragana](https://emzarts.github.io/learn-hiragana/index.html)
+  * Website made for Web and Mobile I. It uses JS to play pronunciations for hiragana characters and box shadows for depth.
+* [GRISPR-Cas9](https://emzarts.github.io/Zimmerman_Emily_20/)
+  * Superbugs have become a threat to human health in recent years as bacteria evolve resistance to antibiotics and drugs. This research project for Biology I explains this issue and the use of CRISPR-Cas9 as a potenital solution. 
 * [Endangered Species](https://emzarts.github.io/endangered-species/index.html) 
   * Endangered Species is a website I made for my senior year web design class. It includes parallax images and a JavaScript sliding menu.
 * [3D Printing](https://emzarts.github.io/3DPrinting/products.html)
@@ -19,7 +23,3 @@ This page contains links to a few of my programming projects. My [CodePen](https
   * Sustainability in Wilton was a website I designed for my AP Environmental Science class. It combines my passion for the environment and coding. 
 * [TechNext RPI LEDs](https://docs.google.com/presentation/d/1-vWKUJD6QAMuONkKwSzJ5jCsCUrJ-tqTz5qiFDiZDok/edit?usp=sharing)
   * This is the presentation for my junior year TechNext project. It was a Raspberry Pi LED Light show that worked with the Adafruit LED Light Board. 
-* [Learn Hiragana](https://emzarts.github.io/learn-hiragana/index.html)
-  * Website made for Web and Mobile I. It uses JS to play pronunciations for hiragana characters and box shadows for depth.
-* [GRISPR-Cas9](https://emzarts.github.io/Zimmerman_Emily_20/)
-  * Superbugs have become a threat to human health in recent years as bacteria evolve resistance to antibiotics and drugs. This research project for Biology I explains this issue and the use of CRISPR-Cas9 as a potenital solution. 
