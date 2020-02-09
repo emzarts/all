@@ -2,6 +2,8 @@
 This page contains links to a few of my programming projects. My [CodePen](https://codepen.io/emzarts/) also contains some smaller projects and creations. You can also view my resume [here](https://github.com/emzarts/all/blob/master/Emily%20M.%20Zimmerman%20Resume.pdf). My linkedin can be accessed [here](https://www.linkedin.com/in/emily-zimmerman-474595149/).
 
 ## Projects
+* [Count Brickula](https://countbrickula.herokuapp.com/)
+  * Webpage that uses computer vision to count the number of "bricks" in a selected photo. 
 * [Learn Hiragana](https://emzarts.github.io/learn-hiragana/index.html)
   * Website made for Web and Mobile I. It uses JS to play pronunciations for hiragana characters and box shadows for depth.
 * [GRISPR-Cas9](https://emzarts.github.io/Zimmerman_Emily_20/)
