@@ -3,7 +3,7 @@ This page contains links to a few of my programming projects. My [CodePen](https
 
 ## Projects
 * [Congestive Heart Failure](https://emzarts.github.io/congestive-heart-failure/)
-  * This is a quick project I made for the topic of Congestive Heart Failure in biology. It is a simple HTML page with some styling.
+  * This is a quick project I made for the topic of Congestive Heart Failure in biology. It is a simple HTML page with some styling. It is designed to look like a newspaper. 
 * [Count Brickula](https://countbrickula.herokuapp.com/)
   * Webpage that uses computer vision to count the number of "bricks" in a selected photo. 
 * [Learn Hiragana](https://emzarts.github.io/learn-hiragana/index.html)
