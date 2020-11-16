@@ -2,6 +2,8 @@
 This page contains links to a few of my programming projects. My [CodePen](https://codepen.io/emzarts/) also contains some smaller projects and creations. You can also view my resume [here](https://github.com/emzarts/all/blob/master/Emily%20M.%20Zimmerman%20Resume.pdf). My linkedin can be accessed [here](https://www.linkedin.com/in/emily-zimmerman-474595149/).
 
 ## Projects
+* [Random Dot Stereograms](https://github.com/emzarts/random-dot-stereograms)
+  * This is a computer vision project that takes in an image and converts it into a hidden 3D image. It was made in Matlab for my computer vision course. 
 * [Congestive Heart Failure](https://emzarts.github.io/congestive-heart-failure/)
   * This is a quick project I made for the topic of Congestive Heart Failure in biology. It is a simple HTML page with some styling. It is designed to look like a newspaper. 
 * [Count Brickula](https://countbrickula.herokuapp.com/)
