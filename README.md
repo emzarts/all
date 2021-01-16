@@ -3,7 +3,7 @@ This page contains links to a few of my programming projects. My [CodePen](https
 
 ## Projects
 * [Phased Native](https://github.com/emzarts/phased-native)
- * Phased native is an attempt at recreating an old speed clicking game that no longer exists! This React Native and Expo app is super simple. 
+  * Phased native is an attempt at recreating an old speed clicking game that no longer exists! This React Native and Expo app is super simple. 
 * [Random Dot Stereograms](https://github.com/emzarts/random-dot-stereograms)
   * This is a computer vision project that takes in an image and converts it into a hidden 3D image. It was made in Matlab for my computer vision course. 
 * [Congestive Heart Failure](https://emzarts.github.io/congestive-heart-failure/)
